@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/MyPortfolioSite/sitemap.xml
+Sitemap: https://linyxoid.github.io/MyPortffolioSite/sitemap.xml
